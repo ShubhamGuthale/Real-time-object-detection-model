@@ -1,18 +1,36 @@
 # Real time object detection model
-• This is a Object Detection Web App build by using Custom trained models, Streamlit Framework and
- PyTorch like Google Lens.
-- Add Todo
-- Edit Todo
-- List Todo
+
+- This is a Object Detection Web App build by using Custom trained models, Streamlit Framework and PyTorch like Google Lens.
+- In this project, I trained a custom dataset model that support more than 50+ objects.
+-  It is a Object Detection Web App build by using Machine Learning, Image Processing and labelImg (Graphical image annotation tool), Jupyter notebook and Custom trained models.
+
+
+# Object Detection Web App 
+  In this project I am building real time object detection 
+model. It detect the object in real time. In this project we trained 20 different object those are :- 
+- Person
+- Car
+- Chair
 - Delete Todo
 - Update Todo
 - Task Status
-
-
-# To Do List Application 
- Todo application developed using JSP, Servlet, JDBC and MySQL Database.
-
-
+ Bottle
+ • Pottedplant
+ • Bird
+ • Dog
+ • Sofa
+ • bicycle
+ • Horse
+ • Boat
+ • Motorbike
+ • Cat
+ • Tv Monitor
+ • Cow
+ • Sheep
+ • Aeroplane
+ • Train
+ • Diningtable
+ • Bus
 
 ## Following features 
 - Add Todo
