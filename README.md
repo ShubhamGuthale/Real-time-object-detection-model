@@ -11,64 +11,48 @@ model. It detect the object in real time. In this project we trained 20 differen
 - Person
 - Car
 - Chair
-- Delete Todo
-- Update Todo
-- Task Status
- Bottle
- • Pottedplant
- • Bird
- • Dog
- • Sofa
- • bicycle
- • Horse
- • Boat
- • Motorbike
- • Cat
- • Tv Monitor
- • Cow
- • Sheep
- • Aeroplane
- • Train
- • Diningtable
- • Bus
+- Pottedplant
+- Bird
+- Dog
+- Sofa
+- bicycle
+- Horse
+- Boat
+- Motorbike
+- Cat
+- Tv Monitor
+- Cow
+- Sheep
+- Aeroplane
+- Train
+- Diningtable
+- Bus
 
-## Following features 
-- Add Todo
-- Edit Todo
-- List Todo
-- Delete Todo
-- Update Todo
-- Task Status
 
 
 ## Technology 
-- Java JDK 20
-- Apache Tomcat server 9.0
-- JSP and Servlet
-- JDBC
-- MySQL database
-- Eclipse IDE
+- Python 3.12.4
+- Streamlit Framework
+- PyTorch
+- Jupyter notebook 
+- labelImg (Graphical image annotation tool)
+- numpy,pandas,opencv-python
 
 
 ## Here are some snapshots.
-- Home
 
 
-<img width="960" alt="Screenshot 2023-11-29 115028" src="https://github.com/ShubhamGuthale/To-Do-List-Project/assets/150772720/60261cbb-db07-41d2-b5b8-acfdc27152b8">
+![Screenshot 2024-06-17 171046](https://github.com/ShubhamGuthale/Real-time-object-detection-model/assets/150772720/d13ff761-3031-4690-b387-6f83768e9cda)
 
 
-- Adding new ToDo
+![Screenshot 2024-06-17 171105](https://github.com/ShubhamGuthale/Real-time-object-detection-model/assets/150772720/b59abddd-1b02-41be-a977-bd771c5ab2e0)
 
 
-<img width="960" alt="Screenshot 2023-11-29 115044" src="https://github.com/ShubhamGuthale/To-Do-List-Project/assets/150772720/32b65990-9909-4f47-a34b-3296c3be60c6">
+
+![Screenshot 2024-06-17 171119](https://github.com/ShubhamGuthale/Real-time-object-detection-model/assets/150772720/70897304-0751-47d4-bb13-e63a090d03eb)
 
 
-<img width="960" alt="Screenshot 2023-11-29 115226" src="https://github.com/ShubhamGuthale/To-Do-List-Project/assets/150772720/1eced503-42d1-41ec-9c89-e7a1def12794">
+![Screenshot 2024-06-18 121528](https://github.com/ShubhamGuthale/Real-time-object-detection-model/assets/150772720/ee30a791-4da7-42a9-a104-60e6d5e34f35)
 
 
-- Delete ToDo by simply clicking on Delete Button.
-- Status
-
-
-<img width="960" alt="Screenshot 2023-11-29 115546" src="https://github.com/ShubhamGuthale/To-Do-List-Project/assets/150772720/4590265b-40c3-4d5d-ac3c-b80a381c8501">
-  
+![Screenshot 2024-06-18 121552](https://github.com/ShubhamGuthale/Real-time-object-detection-model/assets/150772720/d80f455c-3e27-4660-b730-dade6a417915)
