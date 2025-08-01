@@ -1,9 +1,11 @@
-# Real time object detection model
+# VisionaryAI - Real time object recognition tool
 
 
 - This is a Object Detection Web App build by using Custom trained models, Streamlit Framework and PyTorch like Google Lens.
+ 
+- Created VisionaryAI, a real-time object recognition tool using Python, Streamlit, OpenCV, and TensorFlow
   
-- In this project, I trained a custom dataset model that support more than 50+ objects.
+- Achieved over 90% accuracy detecting 20+ object classes using custom-trained models.
   
 -  It is a Object Detection Web App build by using Machine Learning, Image Processing and labelImg (Graphical image annotation tool), Jupyter notebook and Custom trained models.
 
