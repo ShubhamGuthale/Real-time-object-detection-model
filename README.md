@@ -48,13 +48,6 @@
 
 ## Technology Stack 
 
-- Python 3.12.4
-- Streamlit Framework
-- PyTorch
-- Jupyter notebook 
-- labelImg (Graphical image annotation tool)
-- numpy,pandas,opencv-python
-
 | Component      | Technology                  |
 | -------------- | --------------------------- |
 | **Language**   | Python 3.12.4               |
@@ -65,7 +58,7 @@
 | **Others**     | NumPy, Pandas, Matplotlib   |
 
 
-## Here are some snapshots.
+## Snapshots
 
 
 
