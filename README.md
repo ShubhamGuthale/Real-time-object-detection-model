@@ -1,19 +1,27 @@
 # VisionaryAI - Real time object recognition tool
 
-
-- This is a Object Detection Web App build by using Custom trained models, Streamlit Framework and PyTorch like Google Lens.
- 
-- Created VisionaryAI, a real-time object recognition tool using Python, Streamlit, OpenCV, and TensorFlow
-  
-- Achieved over 90% accuracy detecting 20+ object classes using custom-trained models.
-  
--  It is a Object Detection Web App build by using Machine Learning, Image Processing and labelImg (Graphical image annotation tool), Jupyter notebook and Custom trained models.
+**VisionaryAI** is an intelligent real-time object detection web application developed using custom-trained deep learning models. Inspired by tools like Google Lens, it detects and classifies multiple objects in live video streams with high accuracy using PyTorch and Streamlit.
 
 
+## 🚀 Features
 
-# Object Recognition Web App 
+- 🎯 **Real-time Object Detection**  
+  Detects and labels multiple objects in live video with bounding boxes and confidence scores.
 
-  In this project I am building real time object detection model.
+- 🧠 **Custom Trained Models**  
+  Trained on a dataset annotated using `labelImg`, with over 20 object categories.
+
+- 🖥️ **User-Friendly Web Interface**  
+  Built with the **Streamlit** framework for a responsive and interactive frontend.
+
+- 📊 **High Accuracy**  
+  Achieved over **90% accuracy** across trained classes using optimized model training.
+
+
+
+## 🧾 Detected Object Classes
+
+  In this project I am building VisionaryAI - Real time object recognition tool.
   It detect the object in real time. In this project we trained 20 different object those are :- 
   
 - Person
@@ -38,7 +46,7 @@
 
 
 
-## Technology 
+## Technology Stack 
 
 - Python 3.12.4
 - Streamlit Framework
@@ -46,6 +54,15 @@
 - Jupyter notebook 
 - labelImg (Graphical image annotation tool)
 - numpy,pandas,opencv-python
+
+| Component      | Technology                  |
+| -------------- | --------------------------- |
+| **Language**   | Python 3.12.4               |
+| **Frontend**   | Streamlit                   |
+| **Backend**    | PyTorch, TensorFlow, OpenCV |
+| **Annotation** | labelImg                    |
+| **IDE**        | Jupyter Notebook            |
+| **Others**     | NumPy, Pandas, Matplotlib   |
 
 
 ## Here are some snapshots.
