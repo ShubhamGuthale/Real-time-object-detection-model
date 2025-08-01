@@ -11,7 +11,7 @@
 
 
 
-# Object Detection Web App 
+# Object Recognition Web App 
 
   In this project I am building real time object detection model.
   It detect the object in real time. In this project we trained 20 different object those are :- 
